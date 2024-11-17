@@ -64,13 +64,5 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-### 🔝 Top Contributed Repo
-<div align='center
-'>
-
-![](https://github-contributor-stats.vercel.app/api?username=henry-banana&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=henry-banana&icon=7&color=13)](https://visitcount.itsvg.in)
