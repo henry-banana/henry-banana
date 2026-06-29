@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=220&section=header&text=Hi%20there,%20I'm%20Henry%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Java%20%7C%20DevOps%20%7C%20HCMUS&descSize=18&descColor=90caf9&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=220&section=header&text=Hi%20there,%20I'm%20Henry%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Java%20%7C%20DevOps%20%7C%20HCMUS&descSize=18&descColor=90caf9&descAlignY=55&fontFamily=Gabriola%2CSnell%20Roundhand%2CGeorgia%2Ccursive" />
 
 <!-- TYPING SVG -->
 <div align="center">
