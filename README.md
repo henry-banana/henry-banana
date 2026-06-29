@@ -1,68 +1,220 @@
-<h1 align="center">Yahoooo, I'm Henry, or Hòa is also me.</h1>
-<h3 align="center">A sleepy person</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=220&section=header&text=Hi%20there,%20I'm%20Henry%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Java%20%7C%20DevOps%20%7C%20HCMUS&descSize=18&descColor=90caf9&descAlignY=55" />
 
----
+<!-- TYPING SVG -->
+<div align="center">
 
-<div align='center
-'>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🎓+CS+Student+at+FIT+%40+HCMUS;💻+Backend+Java+%2F+DevOps+Intern;🚀+NestJS+%7C+Spring+Boot+%7C+Docker;🛌+Professional+Sleep+Enthusiast)](https://git.io/typing-svg)
 
-  <img src='https://github.com/user-attachments/assets/04f073ca-333a-4f10-8b79-dba0229dde26' width='140' />
-  <img src='https://github.com/user-attachments/assets/6af746ba-76a4-40eb-a1f2-e4afda419014'
-  width='300' />
-  <img src='https://github.com/user-attachments/assets/04f073ca-333a-4f10-8b79-dba0229dde26' width='140' />
 </div>
 
+<!-- ABOUT ME -->
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧑‍💻 About Me
+
+🇻🇳 **Henry** — Ho Chi Minh City, Vietnam
+
+🎓 Software Engineering @ **HCMUS**
+
+💼 Targeting **Backend Java / DevOps** internship
+
+🔧 Currently building with **NestJS · Spring Boot · Docker**
+
+🛌 Professional sleep enthusiast ヾ(≧▽≦)ゝ
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/b3/39/9c/b3399cdb2bb9bb029a7b64411534018b.gif" width="320" />
+
+<br />
+
+📭 **How to reach me:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdthoa.hry@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tdthoa-hry)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henry-banana)
+
+</td>
+</tr>
+</table>
+
 ---
 
-- **🌱 I’m currently learning at FIT@HCMUS - Faculty of Information Technology, University of Science - VNU-HCM**
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
 
-- **⚡ I'm a boy who spends most of time to sleep ヾ(≧ ▽ ≦)ゝ**
+<div align="center">
 
-- **📭 How to reach me:**
-
-    💌 <mailto:tdtho.hry@gmail.com>
-
-    💌 <mailto:23120262@student.hcmus.edu.vn>
-
-# 🤷‍♂️ Some Things...:
-<p align="middle">
-  <a href="https://www.youtube.com/channel/UCt-cx-sooHgRQUW14xpsiqA" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/tdthoa.hry121105" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.tiktok.com/@thoaki12" target="blank">
-    <img align="center" src="https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png" alt="TikTok" height="30" width="40" />
+#### 💬 Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,python,c,cpp,cs,html,css&theme=dark" />
   </a>
 </p>
 
+#### ⚙️ Backend & Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,nextjs,react&theme=dark" />
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-<div align='center
-'>
+#### 🗄️ Databases & Messaging
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,redis,firebase&theme=dark" />
+  </a>
+</p>
 
-  ![](https://github-readme-stats.vercel.app/api?username=henry-banana&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=aura_dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### 🔧 DevOps & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jenkins,linux,postman,vscode,tailwind,prisma&theme=dark" />
+  </a>
+</p>
 
-</div>
-
-## 🏆 GitHub Trophies
-<div align='center
-'>
-
-  ![](https://github-profile-trophy.vercel.app/?username=henry-banana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-
-### ✍️ Random Dev Quote
-<div align='center
-'>
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=henry-banana&icon=7&color=13)](https://visitcount.itsvg.in)
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Role | Tech Stack | Period |
+|:--------|:-----|:-----------|:-------|
+| [**QR Order System**](https://github.com/henry-banana/wad-TKOB-QR-Order-System-hcmus-2025) | Backend Contributor | NestJS, PostgreSQL, Prisma, Redis, Socket.IO, Docker, GitHub Actions | Sep 2025 – Jan 2026 |
+| [**Dormitory Delivery**](https://github.com/henry-banana) | Backend Contributor | NestJS, Firebase Functions, Firestore, FCM, Swagger | Nov 2025 – Jan 2026 |
+| [**KASA Smart Savings**](https://github.com/henry-banana/KASA-smart-savings-management) | Contributor | JavaScript, MIT License | 2026 |
+| [**Windows MyShop**](https://github.com/henry-banana/windows-MyShop2025-hcmus) | Developer | C# (Windows Programming) | 2025–2026 |
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=henry-banana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=64b5f6&text_color=90caf9&ring_color=42a5f5&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=henry-banana&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=henry-banana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=64b5f6&text_color=90caf9&ring_color=42a5f5&cache_seconds=86400" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3a5c&ring=42a5f5&fire=64b5f6&currStreakLabel=90caf9&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=546e7a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3a5c&ring=42a5f5&fire=64b5f6&currStreakLabel=90caf9&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=546e7a" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&cache_seconds=86400" />
+</picture>
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Henry's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henry-banana&theme=react-dark&bg_color=0d1117&color=42a5f5&line=64b5f6&point=90caf9&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/henry-banana)
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henry-banana/henry-banana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henry-banana/henry-banana/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/henry-banana/henry-banana/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 *Snake animation is auto-generated every 12 hours via GitHub Actions!*
+
+---
+
+<!-- TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=henry-banana&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- WAKATIME (placeholder — needs WakaTime setup) -->
+<!--
+## ⏱️ Weekly Coding Stats (WakaTime)
+
+<div align="center">
+
+[![Henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_banana&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9)](https://wakatime.com/@henry_banana)
+
+</div>
+
+> 💡 *To enable: Install WakaTime plugin in your IDE, create an account at wakatime.com, and set your username*
+
+---
+-->
+
+<!-- RANDOM DEV QUOTE -->
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- SOCIAL & FOOTER -->
+<div align="center">
+
+### 🌐 Connect with me
+
+<p>
+  <a href="mailto:tdthoa.hry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:23120262@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/Student_Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tdthoa-hry"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCt-cx-sooHgRQUW14xpsiqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tdthoa.hry121105"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@thoaki12"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=henry-banana&color=0d47a1&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br />
+<br />
+
+<img src="img/cate.gif" width="60" />
+
+*Made with ❤️ and ☕ by Henry — A sleepy developer from HCMUS*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=120&section=footer" />
