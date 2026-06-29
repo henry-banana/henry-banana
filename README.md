@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-🇻🇳 **Henry** — Ho Chi Minh City, Vietnam
+🇻🇳 **Henry** - Ho Chi Minh City, Vietnam
 
 🎓 Software Engineering @ **HCMUS**
 
@@ -27,7 +27,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://i.pinimg.com/originals/b3/39/9c/b3399cdb2bb9bb029a7b64411534018b.gif" width="320" />
+<img src="img/anime-avatar.jpg" width="320" />
 
 <br />
 
@@ -80,45 +80,29 @@
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Role | Tech Stack | Period |
-|:--------|:-----|:-----------|:-------|
-| [**QR Order System**](https://github.com/henry-banana/wad-TKOB-QR-Order-System-hcmus-2025) | Backend Contributor | NestJS, PostgreSQL, Prisma, Redis, Socket.IO, Docker, GitHub Actions | Sep 2025 – Jan 2026 |
-| [**Dormitory Delivery**](https://github.com/henry-banana) | Backend Contributor | NestJS, Firebase Functions, Firestore, FCM, Swagger | Nov 2025 – Jan 2026 |
-| [**KASA Smart Savings**](https://github.com/henry-banana/KASA-smart-savings-management) | Contributor | JavaScript, MIT License | 2026 |
-| [**Windows MyShop**](https://github.com/henry-banana/windows-MyShop2025-hcmus) | Developer | C# (Windows Programming) | 2025–2026 |
-
-</div>
-
----
-
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=henry-banana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=64b5f6&text_color=90caf9&ring_color=42a5f5&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=henry-banana&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=henry-banana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=64b5f6&text_color=90caf9&ring_color=42a5f5&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=henry-banana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=64b5f6&text_color=90caf9&ring_color=42a5f5&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=henry-banana&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henry-banana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=64b5f6&text_color=90caf9&ring_color=42a5f5&cache_seconds=86400" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3a5c&ring=42a5f5&fire=64b5f6&currStreakLabel=90caf9&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=546e7a" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=henry-banana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3a5c&ring=42a5f5&fire=64b5f6&currStreakLabel=90caf9&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=546e7a" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=henry-banana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3a5c&ring=42a5f5&fire=64b5f6&currStreakLabel=90caf9&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=546e7a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=henry-banana&theme=default&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=henry-banana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3a5c&ring=42a5f5&fire=64b5f6&currStreakLabel=90caf9&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=546e7a" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henry-banana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&cache_seconds=86400" />
 </picture>
 
 </div>
@@ -158,13 +142,13 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=henry-banana&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=henry-banana&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- WAKATIME (placeholder — needs WakaTime setup) -->
+<!-- WAKATIME (placeholder - needs WakaTime setup) -->
 <!--
 ## ⏱️ Weekly Coding Stats (WakaTime)
 
@@ -213,7 +197,7 @@
 
 <img src="img/cate.gif" width="60" />
 
-*Made with ❤️ and ☕ by Henry — A sleepy developer from HCMUS*
+*Made with ❤️ and ☕ by Henry - A sleepy developer from HCMUS*
 
 </div>
 
