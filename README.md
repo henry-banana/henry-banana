@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=220&section=header&text=Hi%20there,%20I'm%20Henry%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Java%20%7C%20DevOps%20%7C%20HCMUS&descSize=18&descColor=90caf9&descAlignY=55&fontFamily=Gabriola%2CSnell%20Roundhand%2CGeorgia%2Ccursive" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=220&section=header&text=Hi%20there,%20I'm%20Henry%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20HCMUS&descSize=18&descColor=90caf9&descAlignY=55&fontFamily=Gabriola%2CSnell%20Roundhand%2CGeorgia%2Ccursive" />
 
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🎓+Software+Engineering+Student+at+FIT@HCMUS;💻+Backend+Java+%2F+DevOps+Intern;🚀+NestJS+%7C+Spring+Boot+%7C+Docker;🛌+Professional+Sleep+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🎓+Software+Engineering+Student+at+FIT@HCMUS;💻+Backend+Developer+%2F+DevOps+Intern;🚀+NestJS+%7C+Spring+Boot+%7C+Docker;🛌+Professional+Sleep+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
