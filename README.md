@@ -1,12 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d47a1&height=220&section=header&text=Hi%20there,%20I'm%20Henry%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20HCMUS&descSize=18&descColor=90caf9&descAlignY=55&fontFamily=Gabriola%2CSnell%20Roundhand%2CGeorgia%2Ccursive" />
 
-<!-- TYPING SVG -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🎓+Software+Engineering+Student+at+FIT@HCMUS;💻+Backend+Developer+%2F+DevOps+Intern;🚀+NestJS+%7C+Spring+Boot+%7C+Docker;🛌+Professional+Sleep+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
 <!-- ABOUT ME -->
 <table align="center">
 <tr>
@@ -109,17 +102,6 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Henry's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henry-banana&theme=react-dark&bg_color=0d1117&color=42a5f5&line=64b5f6&point=90caf9&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/henry-banana)
-
-</div>
-
----
-
 <!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Snake
 
@@ -134,43 +116,6 @@
 </div>
 
 > 💡 *Snake animation is auto-generated every 12 hours via GitHub Actions!*
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=henry-banana&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- WAKATIME (placeholder - needs WakaTime setup) -->
-<!--
-## ⏱️ Weekly Coding Stats (WakaTime)
-
-<div align="center">
-
-[![Henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_banana&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9)](https://wakatime.com/@henry_banana)
-
-</div>
-
-> 💡 *To enable: Install WakaTime plugin in your IDE, create an account at wakatime.com, and set your username*
-
----
--->
-
-<!-- RANDOM DEV QUOTE -->
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
